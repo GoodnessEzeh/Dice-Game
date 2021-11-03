@@ -3,3 +3,4 @@ The aim of this game is to roll a higher number than the enemy, to score points.
 
 ## Set up
 Run
+bin/Dibug/Dice Game.exe
